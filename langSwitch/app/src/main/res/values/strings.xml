@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wat</string>
+    <string name="english_button_name">english button</string>
+    <string name="spanish_button_name">spanish button</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">switch de language</string>
+    <string name="english_button_name">button de ingles</string>
+    <string name="spanish_button_name">button de espanol</string>
+</resources>
